@@ -1,4 +1,4 @@
-# Socia-Media-App
+# Socia-App
 
 
 # Getting Started with Create React App
